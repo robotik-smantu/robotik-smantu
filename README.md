@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Replace logo.png with your actual logo file -->
-<img src="title.png" width="150" alt="Robotik SMANTU Logo" />
-
-# ROBOTIK SMANTU
+<img src="title.png" width="auto" alt="Robotik SMANTU Logo" />
 
 ### ENGINEERING · INNOVATION · COLLABORATION
 
