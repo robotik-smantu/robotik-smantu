@@ -1,9 +1,7 @@
-# 🤖 ROBOTIK SMANTU
-
 <div align="center">
 
 <!-- Replace logo.png with your actual logo file -->
-<img src="logo.png" width="150" alt="Robotik SMANTU Logo" />
+<img src="title.png" width="150" alt="Robotik SMANTU Logo" />
 
 # ROBOTIK SMANTU
 
